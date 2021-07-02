@@ -4,7 +4,7 @@ CLTV is a method for predicting a how much a customer is going to create value f
 
 CLTV method consists of two main parts: 
   1. BG/NGD (Beta Geometric/ Negative Binomial Distributions) Submodel: Calculation of conditional expected number of transactions,
-  2. Gamma Gamam Submodel: Calculation of conditional expected average profit.
+  2. Gamma Gamma Submodel: Calculation of conditional expected average profit.
 
 BetaGeoFitter is used for CLTV model. 
 
